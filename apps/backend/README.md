@@ -81,7 +81,7 @@ PORT=8011
 
 # Firebase Admin Credentials
 FIREBASE_CREDENTIAL_PATH=src/config/ebuddy-backend-firebase-adminsdk.json
-FIREBASE_API_KEY=AIzaSyC1dggyvDLDlXVEwF4C5g-XdUpTw-isAiw
+FIREBASE_API_KEY=***********
 
 # Enable Firebase Emulator for Local Testing
 USE_FIREBASE_EMULATOR=true
